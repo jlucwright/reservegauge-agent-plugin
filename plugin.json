@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "reservegauge-agent-plugin",
+  "version": "1.0.0",
+  "description": "Review a user-supplied ReserveGauge usage CSV for coverage, resets and timing changes.",
+  "author": { "name": "Studea Limited", "url": "https://reservegauge.com" },
+  "homepage": "https://reservegauge.com",
+  "repository": "https://github.com/jlucwright/reservegauge-agent-plugin",
+  "license": "MIT",
+  "keywords": ["reservegauge", "usage", "csv", "skills"]
+}
